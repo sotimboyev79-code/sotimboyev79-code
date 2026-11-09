@@ -23,8 +23,9 @@ I'm Sotimboyev Sadulla
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SotimboyevSadulla&style=flat-square&color=00ff00&label=Profilga+tashriflar" alt="Visitor Count" />
+  <img src="https://readme-quotes-bay.vercel.app/api?theme=radical&border=false" alt="Quote" />
 </p>
+
 
 
 
