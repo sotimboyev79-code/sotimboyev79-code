@@ -16,7 +16,7 @@ I'm Sotimboyev Sadulla
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=;I'm%20Al-xorazmiy+vorislari+IT+Student" />
 </p>
-# I'm Sotimboyev Sadulla[cite: 1]
+
 
 ---
 
