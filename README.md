@@ -23,15 +23,37 @@ I'm Sotimboyev Sadulla
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 <h3 align="center">🎮 GitHub Faollik O'yini (Snake Game)</h3>
+name: Generate Snake Animation
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SotimboyevSadulla/SotimboyevSadulla/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SotimboyevSadulla/SotimboyevSadulla/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SotimboyevSadulla/SotimboyevSadulla/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+on:
+  # Har 24 soatda avtomatik ishlaydi
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Qo'lda ham ishga tushirish imkoniyati
+  workflow_dispatch:
 
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 
