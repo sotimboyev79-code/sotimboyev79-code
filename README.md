@@ -22,14 +22,7 @@ I'm Sotimboyev Sadulla
   <a href="https://t.me/Sotimboyev_7" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-<p align="center">
-  <a href="PORTFOLIO_LINKINGIZ_BUERGA">
-    <img src="https://img.shields.io/badge/Portfolio-Website-00FF00?style=for-the-badge&logo=google-chrome&logoColor=black" />
-  </a>
-  <a href="https://t.me/USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-Bog'lanish-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
+
 
 
 
