@@ -22,6 +22,25 @@ I'm Sotimboyev Sadulla
   <a href="https://t.me/Sotimboyev_7" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+<div align="center">
+  
+  <!-- 1-uslub: Neon va rangdor ramkali matn -->
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=%E2%9C%A8+Sotimboyev+Sadulla+%E2%9C%A8;%F0%9F%9A%80+Welcome+to+my+Profile!" alt="Typing Effect" />
+  </h1>
+
+  <br>
+
+  <!-- 2-uslub: Stilize qilingan qalin va naqshli matn -->
+  <h3>
+    <code> ༺ 𝓒𝓸𝓭𝓮𝓻 ❖ 𝓢𝓸𝓽𝓲𝓶𝓫𝓸𝔂𝓮𝓿 𝓢𝓪𝓭𝓾𝓵𝓵𝓪 ༻ </code>
+  </h3>
+
+  <p>
+    <code>⚡ 𝕾𝖔𝖙𝖎𝖒𝖇𝖔𝖞𝖊𝖛 𝕾𝖆𝖉𝖚𝖑𝖑𝖆 ⚡</code>
+  </p>
+
+</div>
 
 
 
