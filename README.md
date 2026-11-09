@@ -22,41 +22,28 @@ I'm Sotimboyev Sadulla
   <a href="https://t.me/Sotimboyev_7" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-<h3 align="center">🎮 GitHub Faollik O'yini (Snake Game)</h3>
-name: Generate Snake Animation
+<!-- 1. Ekran bo'ylab o'ngdan chapga yuguruvchi matn (Marquee) -->
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <font color="#00FF00" size="4">
+      ⚡ Sotimboyev Sadulla | Portfolio va profil sahifamga xush kelibsiz! | Frontend & Web Developer 🚀
+    </font>
+  </marquee>
+</p>
 
-on:
-  # Har 24 soatda avtomatik ishlaydi
-  schedule:
-    - cron: "0 0 * * *"
-  
-  # Qo'lda ham ishga tushirish imkoniyati
-  workflow_dispatch:
+<br>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<!-- 2. Klaviaturada harakatlanib yozilayotgandek ko'rinuvchi matn (Typing effect) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Assalomu+alaykum!;Men+Sotimboyev+Sadullaeman;Frontend+Dasturchiman+%F0%9F%92%BB;Xush+kelibsiz!+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</div>
 
+<br>
 
-
-
-
+<!-- 3. To'lqinsimon harakatlanuvchi fon va matn (Waving Header Banner) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:006400,100:00FF00&height=180&section=header&text=Sotimboyev%20Sadulla&fontSize=30&fontColor=ffffff&fontAlignY=45&desc=Welcome%20to%20my%20GitHub%20World&descAlignY=65&descSize=16" width="100%" />
+</div>
 
