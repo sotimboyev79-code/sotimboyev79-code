@@ -19,9 +19,5 @@ I'm Sotimboyev Sadulla
 
 
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,py,pandas,numpy,sklearn,github,vscode,mysql,postgres,ai&perline=14" width="100%" />
-<!--
-**sotimboyev79-code/sotimboyev79-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 H
