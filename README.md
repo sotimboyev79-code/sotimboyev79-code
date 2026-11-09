@@ -24,7 +24,7 @@ I'm Sotimboyev Sadulla
   </a>
 <div align="center">
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Assalomu+alaykum!;Men+Sotimboyev+Sadullaeman;Frontend+Dasturchiman+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=;+Sotimboyev+Sadulla;+%F0%9F%9A%80" alt="Typing SVG" />
 </p> 
 
 
