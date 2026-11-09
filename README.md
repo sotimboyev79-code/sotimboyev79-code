@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Asadbek Ruziboyev Umirbek ug'li 👋
+I'm Sotimboyev Sadulla
 
 <p align="center">
   
