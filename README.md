@@ -23,9 +23,13 @@ I'm Sotimboyev Sadulla
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 <p align="center">
-  <img src="https://readme-quotes-bay.vercel.app/api?theme=radical&border=false" alt="Quote" />
+  <a href="PORTFOLIO_LINKINGIZ_BUERGA">
+    <img src="https://img.shields.io/badge/Portfolio-Website-00FF00?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
+  <a href="https://t.me/USERNAME">
+    <img src="https://img.shields.io/badge/Telegram-Bog'lanish-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
-
 
 
 
