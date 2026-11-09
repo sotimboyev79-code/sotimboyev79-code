@@ -20,9 +20,6 @@ I'm Sotimboyev Sadulla
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:006400,100:00FF00&height=200&section=header&text=Hii%20I'm%20Sotimboyev%20Sadulla%20Welcome%20to%20my%20GitHub%20profile!&fontSize=24&fontColor=00FF00&fontAlignY=50" width="100%" />
-</div>
 
 
 
