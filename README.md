@@ -26,6 +26,4 @@ I'm Sotimboyev Sadulla
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
     <font color="#00FF00" size="4">
-      ⚡ Sotimboyev Sadulla | Portfolio va profil sahifamga xush kelibsiz! | Frontend & Web Developer 🚀
-    </font>
-  </marquee>
+     
