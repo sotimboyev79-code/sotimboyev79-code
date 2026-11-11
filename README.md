@@ -29,26 +29,3 @@ I'm Sotimboyev Sadulla
       ⚡ Sotimboyev Sadulla | Portfolio va profil sahifamga xush kelibsiz! | Frontend & Web Developer 🚀
     </font>
   </marquee>
-</p>
-
-<br>
-
-<!-- 2. Klaviaturada harakatlanib yozilayotgandek ko'rinuvchi matn (Typing effect) -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Assalomu+alaykum!;Men+Sotimboyev+Sadullaeman;Frontend+Dasturchiman+%F0%9F%92%BB;Xush+kelibsiz!+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</div>
-<!DOCTYPE html>
-<html lang="uz">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neon Glitch Text Effect</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        
-
